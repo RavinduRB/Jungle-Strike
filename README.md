@@ -1,4 +1,4 @@
-<img width="1919" height="907" alt="Snowing" src="https://github.com/user-attachments/assets/ef9d40a6-e3c1-4251-bc57-80ad84d62d52" /># Jungle Strike - 3D Gun Game
+# Jungle Strike - 3D Gun Game
 
 Jungle Strike is a high performance, browser based First Person Shooter (FPS) that combines the immersive power of A Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
 
