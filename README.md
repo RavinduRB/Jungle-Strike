@@ -1,6 +1,6 @@
-# Jungle Strike 3D: Tactical FPS
+# Jungle Strike - 3D Gun Game
 
-Jungle Strike 3D is a high-performance, browser-based First-Person Shooter (FPS) that combines the immersive power of A-Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
+Jungle Strike is a high-performance, browser based First Person Shooter (FPS) that combines the immersive power of A Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
 
 ## ✨ Key Features
 
@@ -49,6 +49,7 @@ Jungle Strike 3D is a high-performance, browser-based First-Person Shooter (FPS)
 4. **Initial Setup**: 
    - Click "Initiate Mission" from the main menu.
    - Click anywhere on the 3D scene to lock your cursor and begin combat.
+(Firstly run "**npm install**" and "**npm run dev**" on vscode terminal.)
 
 ## 🏗️ Technical Architecture
 
@@ -56,6 +57,3 @@ Jungle Strike 3D is a high-performance, browser-based First-Person Shooter (FPS)
 - `components/HUD.tsx`: Manages the complex 2D tactical overlay, including the SVG-based radar and vitality bars.
 - `components/Menu.tsx`: A glassmorphic React interface for mission configuration and loadout management.
 - `types.ts`: Strictly typed interfaces ensuring consistent state across the physics engine and UI.
-
----
-*Developed with precision by a world-class senior frontend engineer.*
