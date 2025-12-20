@@ -1,4 +1,4 @@
-# Jungle Strike - 3D Gun Game
+<img width="1919" height="907" alt="Snowing" src="https://github.com/user-attachments/assets/ef9d40a6-e3c1-4251-bc57-80ad84d62d52" /># Jungle Strike - 3D Gun Game
 
 Jungle Strike is a high performance, browser based First Person Shooter (FPS) that combines the immersive power of A Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
 
@@ -56,6 +56,23 @@ https://github.com/user-attachments/assets/100cfe1a-b52b-4348-ba0d-217b77f9363d
    - Click "Initiate Mission" from the main menu.
    - Click anywhere on the 3D scene to lock your cursor and begin combat.
 5. Firstly run "**npm install**" and "**npm run dev**" on vscode terminal.
+
+## 🧊 Game UI
+
+1. **Game Start UI**
+   <img width="1919" height="903" alt="Start" src="https://github.com/user-attachments/assets/b508b55e-2137-4c89-9705-44aedf9793d5" />
+
+2. **Green Hell (Mission 1)**
+   <img width="1919" height="906" alt="Green Hell" src="https://github.com/user-attachments/assets/22c9b41b-e75e-440c-b4e4-2831331fc46e" />
+
+3. **Green Hell Snowing**
+   <img width="1919" height="907" alt="Snowing" src="https://github.com/user-attachments/assets/5596d60b-5b0b-44d8-9755-8a9ac67a726f" />
+
+4. **Dust Strom (Mission 2)**
+   <img width="1919" height="903" alt="Dust Strom" src="https://github.com/user-attachments/assets/a63804b2-fc94-4022-a894-f0278a7b04e1" />
+
+5. **Game Over UI**
+   <img width="1919" height="901" alt="End" src="https://github.com/user-attachments/assets/1a24719f-30e1-42f4-a4c0-ceca75806093" />
 
 ## 🏗️ Technical Architecture
 
