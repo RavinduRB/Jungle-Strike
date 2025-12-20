@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/100cfe1a-b52b-4348-ba0d-217b77f9363d
 | **Movement** | `W` `A` `S` `D` |
 | **Aim** | `Mouse` (Pointer Lock) |
 | **Shoot** | `Left Click` |
-| **Grenade** | `G` |
+| **Grenade Throw** | `G` |
 | **Enter/Exit Vehicle** | `E` |
 | **Buy Grenades** | `Y` (When near Ammo Crate) |
 | **Switch Weapon** | `Mouse Wheel` |
