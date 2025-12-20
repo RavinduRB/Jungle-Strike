@@ -1,0 +1,8 @@
+
+{
+  "name": "Jungle Strike: 3D FPS",
+  "description": "A fully immersive 3D First-Person Shooter set in a procedural jungle environment with AI enemies, gun recoil, and a dynamic radar system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
