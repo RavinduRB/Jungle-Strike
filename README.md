@@ -1,6 +1,12 @@
 # Jungle Strike - 3D Gun Game
 
-Jungle Strike is a high-performance, browser based First Person Shooter (FPS) that combines the immersive power of A Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
+Jungle Strike is a high performance, browser based First Person Shooter (FPS) that combines the immersive power of A Frame with the creative intelligence of the Google Gemini API. Survive a relentless onslaught of geometric hostiles in a dynamically evolving 3D world.
+
+
+
+https://github.com/user-attachments/assets/100cfe1a-b52b-4348-ba0d-217b77f9363d
+
+
 
 ## ✨ Key Features
 
@@ -49,7 +55,7 @@ Jungle Strike is a high-performance, browser based First Person Shooter (FPS) th
 4. **Initial Setup**: 
    - Click "Initiate Mission" from the main menu.
    - Click anywhere on the 3D scene to lock your cursor and begin combat.
-(Firstly run "**npm install**" and "**npm run dev**" on vscode terminal.)
+5. Firstly run "**npm install**" and "**npm run dev**" on vscode terminal.
 
 ## 🏗️ Technical Architecture
 
